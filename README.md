@@ -1,2 +1,12 @@
 # devops-projects
-A collection of real-world DevOps projects using Azure, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, and CI/CD pipelines.
+☁️ Cloud: Microsoft Azure
+🏗️ Infrastructure as Code: Terraform
+🐳 Containerization: Docker
+☸️ Orchestration: Kubernetes
+🔄 CI/CD: Jenkins, GitHub Actions, Azure DevOps
+📦 Version Control: Git, GitHub, Azure Repos, Bitbucket
+🔐 Security: Gitleaks, TFSec
+🔍 Code Quality: TFLint
+💰 Cost Analysis: Infracost
+💻 IDE: Visual Studio Code
+🖥️ OS: Linux, Windows
